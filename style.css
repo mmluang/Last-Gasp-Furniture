@@ -1,0 +1,15 @@
+body {
+  text-align: center;
+}
+
+table {
+  margin: auto;
+}
+
+tr, td{
+  margin-bottom: 2px;
+}
+
+h3 {
+  margin: 1px;
+}
